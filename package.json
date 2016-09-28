@@ -1,6 +1,6 @@
 {
   "name": "methodman",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Bidirectional rpc and streams for WebSockets and WebRTC.",
   "main": "index.js",
   "scripts": {
