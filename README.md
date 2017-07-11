@@ -1,5 +1,7 @@
 # Method Man
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mikeal/methodman.svg)](https://greenkeeper.io/)
+
 Bidirectional rpc and streams for WebSockets and WebRTC.
 
 ## Usage
